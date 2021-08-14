@@ -20,11 +20,11 @@
   ### 2. 文件
 
   ```shell
-  > datasets				数据集文件夹
+  > datasets		数据集文件夹
   > pretrained_model		各种预训练模型文件夹
-  > saved_model			微调之后保存的模型文件夹
-    train.py				训练文件
-    inference.py			推理文件
+  > saved_model		微调之后保存的模型文件夹
+    train.py		训练文件
+    inference.py		推理文件
   ```
 
   ### 3. 使用
