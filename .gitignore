@@ -16,7 +16,7 @@ log/
 *.bak
 
 # 忽略数据文件夹
-datasets/*
+# datasets/*
 
 # 忽略权重文件
 saved_model/*
