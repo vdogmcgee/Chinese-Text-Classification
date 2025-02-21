@@ -15,7 +15,7 @@
 
 - ### 1. 背景
 
-  基于transformers bert做了一个文本分类的训练 + 推理流程
+  基于transformers bert 做了一个文本分类的训练 + 推理流程
 
   ### 2. 文件
 
